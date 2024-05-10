@@ -1,0 +1,4 @@
+salary of the user 
+santosh 10000
+anup 200000
+soniya 300000
